@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="com.china.food" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android"><name>MyFood</name><js-module name="MyFood" src="www/MyFood.js"><clobbers target="cordova.plugins.MyFood" /></js-module><platform name="ios"><config-file parent="/*" target="config.xml"><feature name="MyFood"><param name="ios-package" value="MyFood" /></feature></config-file><source-file src="src/ios/MyFood.m" /></platform></plugin>

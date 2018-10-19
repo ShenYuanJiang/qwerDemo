@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.demo"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.example.demo"
+    },
+    "com.china.food": {
+      "PACKAGE_NAME": "com.example.demo"
+    }
+  },
+  "dependent_plugins": {}
+}

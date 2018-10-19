@@ -1,0 +1,17 @@
+{
+  "name": "com.china.food",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.china.food",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,26 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "com.china.food": {
+    "source": {
+      "type": "local",
+      "path": "/Users/yuanjiang/Desktop/qwerDemo/node_modules/com.china.food"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
